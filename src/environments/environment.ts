@@ -5,14 +5,7 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'AIzaSyBmBBvrJ50JiYn1wwQUTvK8j-Dob9tt23s',
-    authDomain: 'image-app-da358.firebaseapp.com',
-    databaseURL: 'https://image-app-da358.firebaseio.com',
-    projectId: 'image-app-da358',
-    storageBucket: 'image-app-da358.appspot.com',
-    messagingSenderId: '953191139332',
-    appId: '1:953191139332:web:3d4ffd1d2bb4c08a064d51',
-    measurementId: 'G-CJG138GQ86'
+    // Seus dados do firebase aqui...
   }
 };
 
